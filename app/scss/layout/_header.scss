@@ -1,0 +1,58 @@
+.logo {
+	height: 3.25rem;
+}
+.search {
+
+		// .search__input
+
+		&__input {
+		}
+
+		// .search__button
+
+		&__button {
+		}
+
+		// .search__icon
+
+		&__icon {
+			height: 2rem;
+			width: 2rem;
+		}
+}
+.user-nav {
+
+		// .user-nav__icon-box
+
+		&__icon-box {
+		}
+
+		// .user-nav__icon
+
+		&__icon {
+			height: 2.25rem;
+			width: 2.25rem;
+		}
+
+		// .user-nav__notification
+
+		&__notification {
+		}
+
+		// .user-nav__user
+
+		&__user {
+		}
+
+		// .user-nav__user-photo
+
+		&__user-photo {
+			height: 3.75rem;
+			border-radius: 50%;
+		}
+
+		// .user-nav__user-name
+
+		&__user-name {
+		}
+}
